@@ -1,4 +1,4 @@
-# 🎄 Árvore de Natal Inteligente com Lógica Digital
+# 🎄 Árvore de Natal Inteligente
 
 Projeto desenvolvido com o objetivo de aplicar conceitos de **Eletrônica Digital** e **Circuitos Lógicos**, utilizando portas lógicas, LEDs e um visor de sete segmentos para criar uma **Árvore de Natal interativa**.
 
@@ -18,6 +18,23 @@ Este projeto também contribui para o desenvolvimento de habilidades em:
 - Montagem de circuitos em protoboard
 - Lógica Booleana
 - Organização de sistemas eletrônicos
+
+---
+
+# 📁 Estrutura do Projeto
+
+```
+Árvore de Natal com LEDS
+│
+├── imagens
+│   ├── Circuito Elétrico Árvore de Natal com LEDS - Tinkercad.png
+│   ├── Projeto Árvore de Natal.png
+│
+├── video
+│   ├── Vídeo Árvore de Natal com LEDS.mp4
+│
+└── README.md
+```
 
 ---
 
