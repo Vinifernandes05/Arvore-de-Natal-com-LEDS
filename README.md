@@ -8,7 +8,7 @@ O sistema foi inteiramente desenvolvido a partir da integração de **portas ló
 
 A proposta do projeto foi construir uma estrutura eletrônica temática capaz de controlar sinais digitais e respostas visuais utilizando circuitos integrados e entradas lógicas.
 
-O circuito foi desenvolvido utilizando **6 protoboards**, diversos fios jumper, LEDs, resistores, interruptores DIP e múltiplos CIs de lógica digital, proporcionando uma aplicação prática e visual dos conceitos estudados em Eletrônica Digital.
+O circuito foi desenvolvido utilizando 6 protoboards, diversos fios jumper, LEDs, resistores, interruptores DIP e múltiplos CIs de lógica digital, proporcionando uma aplicação prática e visual dos conceitos estudados em Eletrônica Digital.
 
 ---
 
